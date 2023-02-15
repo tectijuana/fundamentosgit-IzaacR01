@@ -16,7 +16,22 @@ while (n < 10)
 - [ ] esta es una lista vacia
 - [x] Esta es una lista marcada
 
+@MarianaGuerra18 Ella me cae mal, pero no lo sabe :))))
 
+gato: :octocat:
+
+*Italico?*
+
+**Caaaaaaalvoooo**
+
+Pokemon favorito
+
+1. Vaporeon
+2. Zigzagoon
+3. Delphox
+   * Se los juro que no soy furro xdxdxd
+
+> Importante, el agua moja
 
 ## :octocat: Git and GitHub
 
