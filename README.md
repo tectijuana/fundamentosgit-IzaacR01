@@ -6,9 +6,14 @@ The goal of this course is to give you a brief introduction to GitHub. We’ll a
 
 ```csharp
 Console.Write("Hola mundo");
+n = 0;
+while (n < 10)
+{
+   Console.Write("Ama, me cicle :c");
+}
 ```
 
-- [] esta es una lista vacia
+- [ ] esta es una lista vacia
 - [x] Esta es una lista marcada
 
 
